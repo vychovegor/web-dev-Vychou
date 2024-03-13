@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+a1 {
+  background-color: rgb(255, 149, 0);
+  margin-left: 60px;
+}
+a2 {
+  background-color: rgb(16, 231, 112);
+  margin-left: 60px;
+}
+a3 {
+  background-color: rgb(201, 59, 252);
+  margin-left: 60px;
+}
+a4 {
+  background-color: orange;
+  margin-left: 60px;
+}
+a5 {
+  background-color: rgb(0, 106, 255);
+  margin-left: 60px;
+}
+a6 {
+  background-color: green;
+  margin-left: 60px;
+}
+#a {
+  background-color: rgb(104, 237, 51);
+  color: black;
+  padding: 60px;
+  text-align: center;
+}
+#b {
+  background-color: rgb(157, 210, 77);
+  color: black;
+  padding: 60px;
+  text-align: center;
+}
+#c {
+  background-color: rgb(7, 26, 149);
+  color: black;
+  padding: 60px;
+  text-align: center;
+}
+#d {
+  background-color: red;
+  color: black;
+  padding: 60px;
+  text-align: center;
+}
+#e {
+  background-color: rgb(83, 185, 83);
+  color: black;
+  padding: 60px;
+  text-align: center;
+}
+#f {
+  background-color: rgb(176, 88, 176);
+  color: black;
+  padding: 60px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<header> My name is Egor Vychov Dzmitrievich, I am a student of SB BSU. This is my 1st project during 3 years </header>
+<nav>
+<ul>
+<li> <a href="#a"> a.	When HTML5 has become a standard? What were the main reasons for developing new standard?</a> </li>
+<li> <a href="#b"> b.	What is a difference between W3C HTML5 and WHATWG HTML Living Standard?</a> </li>
+<li> <a href="#c"> c.	What is the minimal HTML page code?</a> </li>
+<li> <a href="#d"> d.	Comment on semantic and presentational markup. Why presentational markup is considered deprecated now?</a> </li>
+<li> <a href="#e"> e.	How you can check browser support for particular tag or attribute?</a> </li>
+<li> <a href="#f"> f.	What are the audio and video formats, officially supported by HTML standard? What happens if you use other format?</a> </li>
+</ul>
+</nav>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTN0JMORKpPmCjgYGmvwVrL8H0HwGRXkF41KPSlgjTeg&s">
+<video width="600" height="400" controls>
+  <source src="super_rjaka_demotivator_botvideo.mp4" type="video/mp4">
+  <source src="super_rjaka_demotivator_botvideo.mp4" type="video/ogg">
+</video>
+<audio controls>
+  <source src="ankara-messi-chiquito_(MUZMiN.NET).mp3" type="audio/ogg">
+  <source src="ankara-messi-chiquito_(MUZMiN.NET).mp3" type="audio/mpeg">
+</audio>
+ </footer>
+</section>
+<section>
+ <dl>	
+<dt><body>
+<h1 id="a">When HTML5 has become a standard? What were the main reasons for developing new standard?</h1>
+</body></dt>
+ <dd>
+<a1>HTML5 became a standard in October 2014. The main reasons for developing the new standard were to address the limitations of older versions of HTML, provide better support for multimedia content, improve accessibility, and enable more consistent behavior across different web browsers.</a1>
+ </dd>
+ </dl>
+  <dl>
+ <dt><body>
+<h1 id="b">What is a difference between W3C HTML5 and WHATWG HTML Living Standard?</h1>
+</body></dt>
+ <dd>
+<a2>The main difference between W3C HTML5 and WHATWG HTML Living Standard is the approach to development and maintenance. W3C HTML5 is a stable specification developed by the World Wide Web Consortium (W3C), while WHATWG HTML Living Standard is a continuously updated document maintained by the Web Hypertext Application Technology Working Group (WHATWG).
+   </dd>
+   </dl>
+   </a2>
+<dl>
+<dt><body>
+<h1 id="c">What is the minimal HTML page code?</h1>
+</body></dt>
+<dd>
+<a3>
+    The minimal HTML page code consists of the following:
+    html
+    !DOCTYPE html
+    html
+    head
+        title Title /title
+    head
+    body
+        Content
+    /body
+    html
+</dd>
+</dl>
+</a3>
+<dl>
+<dt><body>
+<h1 id="d">Comment on semantic and presentational markup. Why presentational markup is considered deprecated now?</h1>
+</body></dt>
+<dd>
+<a4>
+Semantic markup focuses on the meaning and structure of content, while presentational markup is concerned with the appearance and style. Presentational markup is considered deprecated because it mixes content with styling, making it harder to maintain, update, and adapt to different devices and user preferences.
+</dd>
+ </dl>
+ </a4> 
+ <dl>
+ <dt><body>
+<h1 id="e">How you can check browser support for particular tag or attribute?</h1>
+</body></dt>
+ <dd>
+ <a5>
+    Browser support for a particular tag or attribute can be checked using online resources such as MDN Web Docs, Can I Use, or the W3C HTML Validator. These resources provide information on browser compatibility for various HTML features.
+</a5>
+</dd>
+ </dl>
+<dl>
+ <dt><body>
+<h1 id="f">What are the audio and video formats, officially supported by HTML standard? What happens if you use other format?</h1>
+</body></dt>
+ <dd>
+ <a6>
+    The officially supported audio formats in HTML standard are MP3, Ogg Vorbis, and WAV. The supported video formats are MP4, WebM, and Ogg Theora. If you use other formats, the content may not be playable in all browsers, leading to compatibility issues for users.
+ </a6>
+ </dd>
+ </dl>
+<footer>
+Everything was clear enough, I had a couple of questions, but I solved them pretty quickly, the hardest part was to make the links at the beginning of the site work. I used to study HTML superficially and I remembered it all and as if I hadn't encountered any great difficulties. I learned how to throw on GitHub.
+</footer>
+</body>
+</html>  
